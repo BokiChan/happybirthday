@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "เเม่",
+  photo: "./img/mom.jpg",         // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "สวัสดีครับ",
+      subtitle: "วันนี้เป็นวันพิเศษของใครรึเปล่า... :D",
     },
     {
       type: "countdown",
@@ -65,22 +65,22 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "ใช่เเล้ววันนี้วันเกิดเเม่ไง!! :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "เเม่ครับสุขสันต์วันเกิดนะครับ! ขอให้เเม่มีความสุขมากๆ สุขภาพเเข็งแรง เเละมีความสุขในทุกๆวันนะครับ ผมรักเเม่มากๆนะครับ <3",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "ตอนเเรกก็อยากทำเเบบนั้นเเหละครับ",
+        "เเต่ว่าไม่เอาดีกว่า",
+        "ก็เเลยคิดว่าจะทำอะไรที่มันดู<br><strong>พิเศษกว่านั้นหน่อย<strong>",
+        "เพราะว่า",
+        "เเม่เป็นคนที่พิเศษมากๆ สำหรับผม <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "ขอให้เเม่อยู่กับผมต่อไปนานๆนะครับ ผมรักเเม่นะครับ ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "เอาไว้ไปซื้อเค้กไอติมมากินกันนะครับ",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
